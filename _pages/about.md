@@ -36,22 +36,22 @@ I graduated from Shanghai Jiao Tong University (SJTU) in June 2024 with a B.Eng.
 
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**<br />
   Junteng Liu (first author), Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He<br />
-  *arXiv*, 2025. ([code](/publication/2025-06-01-synlogic))
+  *arXiv*, 2025. ([details](publication/2025-06-01-synlogic))
 - **On the Perception Bottleneck of VLMs for Chart Understanding**<br />
   Junteng Liu (first author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He<br />
-  *arXiv*, 2025. ([code: Vision4Chart](/publication/2025-05-01-perception-bottleneck-vlms))
+  *arXiv*, 2025. ([details](publication/2025-05-01-perception-bottleneck-vlms))
 - **On the Universal Truthfulness Hyperplane Inside LLMs**<br />
   Junteng Liu (first author), Shiqi Chen, Yu Cheng, Junxian He<br />
-  *EMNLP 2024*. ([code: Universal_Truthfulness_Hyperplane](/publication/2024-11-01-universal-truthfulness-hyperplane))
+  *EMNLP 2024*. ([details](publication/2024-11-01-universal-truthfulness-hyperplane))
 - **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**<br />
   Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He<br />
-  *ICML 2024*. ([details](/publication/2024-07-01-in-context-sharpness-alerts))
+  *ICML 2024*. ([details](publication/2024-07-01-in-context-sharpness-alerts))
 - **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**<br />
   Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He<br />
-  *NeurIPS 2023*. ([details](/publication/2023-12-01-ceval))
+  *NeurIPS 2023*. ([details](publication/2023-12-01-ceval))
 - **Composing Parameter-Efficient Modules with Arithmetic Operations**<br />
   Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He<br />
-  *NeurIPS 2023*. ([details](/publication/2023-12-02-composing-parameter-efficient-modules))
+  *NeurIPS 2023*. ([details](publication/2023-12-02-composing-parameter-efficient-modules))
 
 ## Skills
 
